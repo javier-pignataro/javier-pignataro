@@ -1,5 +1,5 @@
 # Welcome!
-FrontEnd developer with X years of experience. Specialized in Web Sites developing, using HTML, CSS and Javascript. Using tools like Git, Github, Node, Nvim, and others. I find myself 
+FrontEnd developer with 1 year of experience. Specialized in Web Sites developing, using HTML, CSS and Javascript. I use tools like Git, Github, Node, Nvim, and others. Find myself comfortable helping and explaining things that I know to my colleagues.
 
 ### My Projects
 - [Super Interlaken (Web Site)](https://superinterlaken.com/)
