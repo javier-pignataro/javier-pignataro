@@ -1,10 +1,10 @@
-### Hi there 👋
-
-# Welcome to my Profile!!
+# Welcome!
 FrontEnd developer with X years of experience. Specialized in Web Sites developing, using HTML, CSS and Javascript. Using tools like Git, Github, Node, Nvim, and others. I find myself 
 
 ### My Projects
-Super
+- [Super Interlaken (Web Site)](https://superinterlaken.com/)
+- [Snack Picker (GitHub Project)](https://github.com/javier-pignataro/snack-picker)
+- [SportIt (Web Design)](https://github.com/javier-pignataro/sportit-project)
 
 ### Technologies
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -19,5 +19,5 @@ Super
 ![](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 
 ### Find me around the web:
-1. [LinkedIn](https://www.linkedin.com/in/javier-gonzalo-pignataro-8689971a0/)
+- [LinkedIn](https://www.linkedin.com/in/javier-gonzalo-pignataro-8689971a0/)
 
