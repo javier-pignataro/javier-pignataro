@@ -1,5 +1,5 @@
 # Welcome!
-FrontEnd developer with 1 year of experience. Specialized in Web Sites developing, using HTML, CSS and Javascript. I use tools like Git, Github, Node, Nvim, and others. Find myself comfortable helping and explaining things that I know to my colleagues.
+FrontEnd developer specialized in Web Sites developing, using HTML, CSS and Javascript. I use tools like Git, Github, Node, and others. Find myself comfortable helping and explaining things that I know to my colleagues.
 
 ### My Projects
 - [Super Interlaken (Web Site)](https://superinterlaken.com/)
@@ -18,9 +18,8 @@ FrontEnd developer with 1 year of experience. Specialized in Web Sites developin
 ![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+
 
 ### Find me around the web:
 - [LinkedIn](https://www.linkedin.com/in/javier-gonzalo-pignataro-8689971a0/)
