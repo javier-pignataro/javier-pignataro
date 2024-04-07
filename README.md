@@ -2,7 +2,6 @@
 FrontEnd developer specialized in Web Sites developing, using HTML, CSS and Javascript. I use tools like Git, Github, Node, and others. Find myself comfortable helping and explaining things that I know to my colleagues.
 
 ### My Projects
-- [Super Interlaken (Web Site)](https://superinterlaken.com/)
 - [Snack Picker (GitHub Project)](https://github.com/javier-pignataro/snack-picker)
 - [SportIt (Web Design)](https://github.com/javier-pignataro/sportit-project)
 
